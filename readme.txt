@@ -2,6 +2,7 @@ https://sistemas.anatel.gov.br/mosaico/sch/publicView/listarProdutosHomologados.
 
 1. install chromeSetup64_84.exe // version 84 not 85
 2. move 'chromdriver.exe' to the same directory of 'scrap.py'
+(or you can match chrome with chrome driver)
 3. python version: 3.8.5
 4. run 'py scrap.py'
 
